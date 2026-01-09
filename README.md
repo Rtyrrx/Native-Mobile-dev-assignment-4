@@ -4,9 +4,13 @@
 
 This assignment was about practicing functions and closures in Swift. For me, it was pretty chill and understandable because I already have some programming background, especially with Python. Most of the ideas weren’t new, but this task helped me get more comfortable with Swift syntax and how closures are used in real code.
 
-See the code by going to **task.swift** in this dir.
+See the code by going to `task.swift` in this dir.
 
 In order to run the code type this:
+
+`swiftc tasks.swift -o tasks.exe `
+
+`.\tasks.exe`
 
 ![Output screenshot](screenshots/output.png)
 
@@ -105,4 +109,5 @@ For the creative part, I built a small skill system inspired by anime Demon Slay
 ## Overall Conclusion
 
 Overall, this assignment was pretty easy for me. Most concepts were already familiar, but I still learned more about Swift-specific syntax and closures. Everything worked smoothly, and the task was actually enjoyable to complete.
+
 
