@@ -105,3 +105,4 @@ For the creative part, I built a small skill system inspired by anime Demon Slay
 ## Overall Conclusion
 
 Overall, this assignment was pretty easy for me. Most concepts were already familiar, but I still learned more about Swift-specific syntax and closures. Everything worked smoothly, and the task was actually enjoyable to complete.
+
